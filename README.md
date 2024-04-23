@@ -1,0 +1,2 @@
+# drowsiness_detection
+ This project implements a drowsiness detection system using computer vision techniques. It detects signs of drowsiness in real-time by analyzing facial landmarks, particularly focusing on eye movement patterns. When signs of drowsiness are detected, such as prolonged eye closure, it triggers an alarm to alert the individual, potentially preventing accidents caused by fatigue while driving or operating machinery.
